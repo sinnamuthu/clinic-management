@@ -1,0 +1,24 @@
+{
+  "name": "clinic-management",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Clinic Management Application",
+  "scripts": {
+    "dev": "turbo run dev",
+    "build": "turbo run build",
+    "lint": "turbo run lint",
+    "test": "turbo run test"
+  },
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "12.11.2",
+      "onFail": "download"
+    }
+  },
+  "packageManager": "pnpm@12.11.2",
+  "type": "module",
+  "devDependencies": {
+    "turbo": "^2.11.8"
+  }
+}
