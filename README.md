@@ -68,11 +68,11 @@ Install the following tools before running the project:
 ### 1. Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <https://github.com/sinnamuthu/clinic-management.git>
 cd clinic-management
 ```
 
-Replace `<YOUR_GITHUB_REPOSITORY_URL>` with your actual GitHub repository URL.
+Replace `<https://github.com/sinnamuthu/clinic-management.git>` with your actual GitHub repository URL.
 
 ### 2. Install Dependencies
 
